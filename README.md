@@ -26,4 +26,4 @@ University of Warwick, supervised by [Dr Greg Watson](https://warwick.ac.uk/fac/
 ## Links
 
 - [Dissertation](https://github.com/EdmundGoodman/CS310-dissertation/releases/download/tabula-submission/CS310_dissertation.pdf)
-- [Presentation](https://p3hpc.org/workshop/2024/program/#lightning-talks)
+- [Presentation](https://github.com/astllabs/uow-diss/blob/main/presentation.pdf)

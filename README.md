@@ -1,7 +1,7 @@
 # Automated Panoramic Mapping of Virtual Worlds with a GeoGuessr-Style Platform for Apex Legends
 
 A third year project for a Computer Science BSc at the
-University of Warwick, supervised by [Dr Greg Watson](https://warwick.ac.uk/fac/sci/dcs/people/greg_watson/) and [Dr Alex Dixon](https://warwick.ac.uk/fac/sci/dcs/people/alex_dixon/)
+University of Warwick, supervised by [Dr Greg Watson](https://warwick.ac.uk/fac/sci/dcs/people/greg_watson/) and [Dr Alex Dixon](https://warwick.ac.uk/fac/sci/dcs/people/alex_dixon/) and achieved an overall grade of 86%.
 
 ## Abstract
 
